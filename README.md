@@ -1,2 +1,2 @@
 # publications.bib
-List of my international publicaions
+List of my international publications
