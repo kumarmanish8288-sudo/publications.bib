@@ -9,16 +9,25 @@ List of my international publications
       Manish Kumar, <em>IJFMR</em>, Vol. 7, Issue 1, 2025.
       <a href="https://doi.org/10.36948/ijfmr.2025.v07i01.34715" target="_blank">DOI</a>
     </li>
-
+    <li>
+      <strong>Correlation of Prime Number with English &amp; Hindi Alphabets</strong><br>
+      Manish Kumar, <em>4th International Virtual (Online Conference) Multidisciplinary Conference</em>, 2025.
+      <a href="Conference-Paper-Prime-Number-and-Alphabets.pdf" target="_blank">PDF</a>
+    </li>
     <li>
       <strong>Effect of Magnetic Field Tapering on Whistler Pumped Free Electron Laser</strong><br>
       Manish Kumar, <em>AIP Advances</em> 9, 025207 (2019).
       <a href="https://doi.org/10.1063/1.5064751" target="_blank">DOI</a>
     </li>
-
+    <li>
+      <strong>Effects of pH Change on the Operation of Electrolyzer and Fuel Cell</strong><br>
+      Ranjan, A.,Singh, A, Kumar, M.,  <em>IEEE PES Transactions on Sustainable Energy</em>, IEEE Student's Conference on   Engineering & Systems(SCES) July 10-12, 2020.
+      <a href="effect of pH on fuel cell_2020.pdf" target="_blank">PDF</a>
+    </li>
     <li>
       <strong>Fuel Cells: Contamination and Recent Advancements for its Stabilization</strong><br>
       Kumar, M., Raj, A., &amp; Srivastava, P., <em>MATTER: International Journal of Science and Technology</em>, 5(3), 28–45 (2019).
+      <a href="2172-Article-Text-6190-1-10-20191119-1.pdf" target="_blank">PDF</a>
     </li>
 
     <!-- Add more entries -->
